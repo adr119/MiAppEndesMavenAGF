@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.example"},{"l":"org.example.Arrays"},{"l":"org.example.Baremo"},{"l":"org.example.CajaBlanca"},{"l":"org.example.Calculadora"},{"l":"org.example.Farmacia"}];updateSearchResults();

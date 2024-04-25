@@ -1,0 +1,61 @@
+@options
+@argfile
+-classpath
+'C:/Users/dam115/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.1/junit-jupiter-api-5.10.1.jar;C:/Users/dam115/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar;C:/Users/dam115/.m2/repository/org/junit/platform/junit-platform-commons/1.10.1/junit-platform-commons-1.10.1.jar;C:/Users/dam115/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'E:/entornos de desarrollo/MiAppEndesMavenAGF/src/main/java;E:/entornos de desarrollo/MiAppEndesMavenAGF/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'E:/entornos de desarrollo/MiAppEndesMavenAGF/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MiAppEndesMavenAGF 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'MiAppEndesMavenAGF 1.0-SNAPSHOT API'
+'E:/entornos de desarrollo/MiAppEndesMavenAGF/src/main/java/org/example/Arrays/MisArrays.java'
+'E:/entornos de desarrollo/MiAppEndesMavenAGF/src/main/java/org/example/Baremo/Baremo.java'
+'E:/entornos de desarrollo/MiAppEndesMavenAGF/src/main/java/org/example/CajaBlanca/Ejercicios.java'
+'E:/entornos de desarrollo/MiAppEndesMavenAGF/src/main/java/org/example/Calculadora/Main.java'
+'E:/entornos de desarrollo/MiAppEndesMavenAGF/src/main/java/org/example/Calculadora/Calculadora.java'
+'E:/entornos de desarrollo/MiAppEndesMavenAGF/src/main/java/org/example/Farmacia/Farmacia.java'
+'E:/entornos de desarrollo/MiAppEndesMavenAGF/src/main/java/org/example/Farmacia/MedicamentoGenerico.java'
+'E:/entornos de desarrollo/MiAppEndesMavenAGF/src/main/java/org/example/Farmacia/MedicamentoEspecializado.java'
+'E:/entornos de desarrollo/MiAppEndesMavenAGF/src/main/java/org/example/Main.java'
+C:\Users\dam115\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.1\junit-jupiter-api-5.10.1.jar = 1705319953940
+C:\Users\dam115\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar = 1705319953900
+C:\Users\dam115\.m2\repository\org\junit\platform\junit-platform-commons\1.10.1\junit-platform-commons-1.10.1.jar = 1705319953893
+C:\Users\dam115\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar = 1705319953908
+E:\entornos de desarrollo\MiAppEndesMavenAGF\src\main\java = 1714039904000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\generated-sources\annotations = 1714041384000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\element-list = 1714043254000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\constant-values.html = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\overview-tree.html = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\index.html = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\allclasses-index.html = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\allpackages-index.html = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\module-search-index.js = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\package-search-index.js = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\type-search-index.js = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\member-search-index.js = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\tag-search-index.js = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\index-all.html = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\search.html = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\overview-summary.html = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\help-doc.html = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\stylesheet.css = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\script.js = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\copy.svg = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\search.js = 1714043256000
+E:\entornos de desarrollo\MiAppEndesMavenAGF\target\site\apidocs\search-page.js = 1714043256000
